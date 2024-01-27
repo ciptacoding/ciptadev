@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 149 35" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Aboreto">@import url(https://fonts.googleapis.com/css2?family=Aboreto%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <path d="M17.2717 33.4444C26.1175 33.4444 33.2884 26.2014 33.2884 17.2666C33.2884 8.3319 26.1175 1.08887 17.2717 1.08887C8.42597 1.08887 1.25507 8.3319 1.25507 17.2666C1.25507 26.2014 8.42597 33.4444 17.2717 33.4444Z" fill="#F7AF24" stroke="#18171C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1, 0, 0, 1, -2.842170943040401e-14, 0)"/>
+  <path d="M17.2716 22.1207C19.9253 22.1207 22.0766 19.9478 22.0766 17.2674C22.0766 14.587 19.9253 12.4141 17.2716 12.4141C14.6178 12.4141 12.4666 14.587 12.4666 17.2674C12.4666 19.9478 14.6178 22.1207 17.2716 22.1207Z" fill="#F7AF24" stroke="#18171C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1, 0, 0, 1, -2.842170943040401e-14, 0)"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Aboreto; font-size: 28px; letter-spacing: -3px; white-space: pre;" x="32.452" y="27.437" transform="matrix(1, 0, 0, 1, -2.842170943040401e-14, 0)">CiptaDev</text>
+</svg>
