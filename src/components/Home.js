@@ -15,15 +15,16 @@ const Home = () => {
                 <span>Hello.</span>
               </h6>
               <h1>
-                We Have <br />
-                Design
+                Welcome!
                 <br />
-                Experience
+                To My
+                <br />
+                Portfolio
               </h1>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                I am a software engineer with a passion for innovation,
+                specializing in creating stylish, modern websites, web services,
+                desktop app and mobile app.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">

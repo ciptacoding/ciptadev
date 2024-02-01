@@ -1,37 +1,37 @@
 import SectionTitle from "./SectionTitle";
 
 const skillsData = [
-  { id: 1, name: "HTML", icon: "fab fa-html5" },
-  { id: 2, name: "CSS", icon: "fab fa-css3" },
-  { id: 3, name: "React JS", icon: "fab fa-react" },
-  { id: 4, name: "Angular", icon: "fab fa-angular" },
-  { id: 5, name: "iOs App", icon: "fab fa-apple" },
+  { id: 1, name: "React", icon: "fab fa-react" },
+  { id: 2, name: "Vue", icon: "fab fa-css3" },
+  { id: 3, name: "Node JS", icon: "" },
+  { id: 4, name: "Laravel", icon: "fab fa-angular" },
+  { id: 5, name: "Sql", icon: "fab fa-apple" },
   { id: 6, name: "App Dev", icon: "fab fa-android" },
 ];
 const experiencesData = [
   {
     id: 1,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Sep 2022 - Jan 2023",
+    designation: "Web Developer - Internship",
+    company: "STIKOM Bali",
   },
   {
     id: 2,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Jan 2023 - Jul 2023",
+    designation: "Software Engineer - Internship",
+    company: "PT. GITS Indonesia",
   },
   {
     id: 3,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Jul 2023 - Present",
+    designation: "Self Employed - Part Time",
+    company: "Neotera Technology",
   },
   {
     id: 4,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Nov 2023 - Present",
+    designation: "Software Engineer - Full Time",
+    company: "PT. Bima Sakti Alterra",
   },
 ];
 const Skill = () => {
@@ -44,7 +44,7 @@ const Skill = () => {
               heading={"Skills and  Experience"}
               subHeading={"Experience"}
               text={
-                "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores."
+                "I have experience in the field of software engineering for almost 2 years."
               }
             />
 
@@ -95,7 +95,7 @@ const Skill = () => {
                 />
               </span>
               <div className="avatar">
-                <img src="assets/img/avatar.png" alt="image" />
+                <img src="assets/img/hireme.png" alt="image" />
               </div>
               <a className="px-btn px-btn-theme2" href="#contactus">
                 Hire me{" "}
