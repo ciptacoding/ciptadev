@@ -2,11 +2,11 @@ import SectionTitle from "./SectionTitle";
 
 const skillsData = [
   { id: 1, name: "React", icon: "fab fa-react" },
-  { id: 2, name: "Vue", icon: "fab fa-css3" },
-  { id: 3, name: "Node JS", icon: "" },
-  { id: 4, name: "Laravel", icon: "fab fa-angular" },
-  { id: 5, name: "Sql", icon: "fab fa-apple" },
-  { id: 6, name: "App Dev", icon: "fab fa-android" },
+  { id: 2, name: "Vue", icon: "fab fa-vuejs" },
+  { id: 3, name: "Node JS", icon: "fab fa-node-js" },
+  { id: 4, name: "Laravel", icon: "fab fa-laravel" },
+  { id: 5, name: "Database Sql", icon: "fas fa-database" },
+  { id: 6, name: "Mobile Apps", icon: "fas fa-mobile-alt" },
 ];
 const experiencesData = [
   {
